@@ -73,15 +73,19 @@ Pour ajouter des icônes : [https://emojiterra.com/fr/liste-emojis/](https://emo
 mindmap
   root)Fabrication de cookies(
     Assemblage
-        🧈 Ramollir le beurre *25min*
-        ☕ Faire fondre le chocolat *15min*
-        🍫 Tailler le chocolat en pépite *10min*
+        Faire le beurre noisette *10min*
+        Peser la farine *3min*
+        Blanchir les oeufs *10min*
+        Faire fondre le chocolat avec le beurre*10min*
+        Tailler le chocolat en pépite *5m*
+
         🍪 Assemblage finale *30min*
     ❄️Mettre au frais *3h*
     Cuisson
         🌡️ Four à température *15min*
         ✂️ Découper en tronçon *4min*
         ♨️ Cuisson *3x10min*
+
 ```
 
 ### Gantt
